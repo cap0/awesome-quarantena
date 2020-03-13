@@ -56,3 +56,5 @@ L'elenco è stato creato per rispondere alla [Pandemia di COVID-19 del 2019-2020
 ### Video Games
 - [MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games)
 - [Epic Games] (https://www.epicgames.com/): Ogni settimana alcuni giochi gratuiti
+- [Rom](https://coolrom.com.au/)
+
